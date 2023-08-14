@@ -13,9 +13,7 @@ body {
 
 
 /*hero-area*/
-.hero-area {
-    height: 100vh;
-}
+
 
 .hero-container{
     display: flex;
@@ -34,13 +32,11 @@ body {
 }
 
 /*experience*/
-.experience-area{
-    height: 600px;
-}
+
 .experience-container {
     display: flex;
     justify-content: flex-start;
-    height: 600px;
+    
 }
 
 .avator {
